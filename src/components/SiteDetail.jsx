@@ -47,13 +47,13 @@ const SiteDetail = () => {
 						</div>
 						<div className="site__btn">
 							<a
-								href="https://jwor12427.github.io/codingclassName/site/site1/index.html"
+								href="https://jwor12427.github.io/codingclass/site/site1/index.html"
 								target="_blank"
 							>
 								사이트 보기
 							</a>
 							<a
-								href="https://github.com/jwor12427/codingclassName/blob/main/site/site1/index.html"
+								href="https://github.com/jwor12427/codingclass/blob/main/site/site1/index.html"
 								target="_blank"
 							>
 								코드 보기
@@ -120,13 +120,13 @@ const SiteDetail = () => {
 						</div>
 						<div className="site__btn">
 							<a
-								href="https://jwor12427.github.io/codingclassName/site/site2/index.html"
+								href="https://jwor12427.github.io/codingclass/site/site2/index.html"
 								target="_blank"
 							>
 								사이트 보기
 							</a>
 							<a
-								href="https://github.com/jwor12427/codingclassName/blob/main/site/site2/index.html"
+								href="https://github.com/jwor12427/codingclass/blob/main/site/site2/index.html"
 								target="_blank"
 							>
 								코드 보기
@@ -158,13 +158,13 @@ const SiteDetail = () => {
 						</div>
 						<div className="site__btn">
 							<a
-								href="http://jwor124.dothome.co.kr/phpclassName/main/main.php"
+								href="http://jwor124.dothome.co.kr/phpClass/main/main.php"
 								target="_blank"
 							>
 								사이트 보기
 							</a>
 							<a
-								href="https://github.com/jwor12427/phpclassName"
+								href="https://github.com/jwor12427/phpClass"
 								target="_blank"
 							>
 								코드 보기

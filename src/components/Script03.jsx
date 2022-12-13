@@ -28,7 +28,7 @@ const Script03 = () => {
 						<div className="behind__desc">
 							<div className="be__title">퀴즈이펙트 사이트</div>
 							<a
-								href="https://jwor12427.github.io/codingclassName/javascript/effect/quizEffect01.html"
+								href="https://jwor12427.github.io/codingclass/javascript/effect/quizEffect01.html"
 								target="_blank"
 								className="site__go"
 							>
@@ -61,7 +61,7 @@ const Script03 = () => {
 						<div className="behind__desc">
 							<div className="be__title">마우스이펙트 사이트</div>
 							<a
-								href="https://jwor12427.github.io/codingclassName/javascript/effect/mouseEffect01.html"
+								href="https://jwor12427.github.io/codingclass/javascript/effect/mouseEffect01.html"
 								target="_blank"
 								className="site__go"
 							>

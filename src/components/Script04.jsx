@@ -28,7 +28,7 @@ const Script04 = () => {
 						<div className="behind__desc plus">
 							<div className="be__title">슬라이드이펙트 사이트</div>
 							<a
-								href="https://jwor12427.github.io/codingclassName/javascript/effect/sliderEffect01.html"
+								href="https://jwor12427.github.io/codingclass/javascript/effect/sliderEffect01.html"
 								target="_blank"
 								className="site__go"
 							>
@@ -61,7 +61,7 @@ const Script04 = () => {
 						<div className="behind__desc plus">
 							<div className="be__title">패럴랙스이펙트 사이트</div>
 							<a
-								href="https://jwor12427.github.io/codingclassName/javascript/effect/parallaxEffect01.html"
+								href="https://jwor12427.github.io/codingclass/javascript/effect/parallaxEffect01.html"
 								target="_blank"
 								className="site__go"
 							>

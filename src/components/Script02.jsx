@@ -28,7 +28,7 @@ const Script02 = () => {
 						<div className="behind__desc">
 							<div className="be__title">게임이펙트 사이트</div>
 							<a
-								href="https://jwor12427.github.io/codingclassName/javascript/effect/gameEffect01.html"
+								href="https://jwor12427.github.io/codingclass/javascript/effect/gameEffect01.html"
 								target="_blank"
 								className="site__go"
 							>
@@ -61,7 +61,7 @@ const Script02 = () => {
 						<div className="behind__desc">
 							<div className="be__title">검색이펙트 사이트</div>
 							<a
-								href="https://jwor12427.github.io/codingclassName/javascript/effect/searchEffect01.html"
+								href="https://jwor12427.github.io/codingclass/javascript/effect/searchEffect01.html"
 								target="_blank"
 								className="site__go"
 							>
