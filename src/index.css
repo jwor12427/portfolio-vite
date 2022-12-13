@@ -1,0 +1,17 @@
+/** @format */
+/* 공통 요소 */
+@import url(assets/css/reset.css);
+@import url(assets/css/fonts.css);
+
+/* 헤더 */
+@import url(assets/css/header.css);
+/* 푸터 */
+@import url(assets/css/footer.css);
+
+/* 세션별 */
+@import url(assets/css/section1.css);
+@import url(assets/css/section2.css);
+@import url(assets/css/section3.css);
+@import url(assets/css/section4.css);
+@import url(assets/css/section5.css);
+@import url(assets/css/section6.css);
