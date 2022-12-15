@@ -168,7 +168,7 @@ const ReactDetail = () => {
 							</div>
 						</div>
 					</div>
-					<div className="site__inner-d last">
+					<div className="site__inner-d react">
 						<div className="site__left">
 							<div className="site__left__title">vue site</div>
 							<div className="site__left__desc">
@@ -193,6 +193,7 @@ const ReactDetail = () => {
 									코드 보기
 								</a>
 							</div>
+
 							<div className="s__conts-rail">
 								<div className="conts__inner">
 									<div className="conts__item">
@@ -217,6 +218,60 @@ const ReactDetail = () => {
 										src="assets/img/vue01.png"
 										alt="뷰사이트 이미지"
 									/>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div className="site__inner-d sce last">
+						<div className="site__right">
+							<div className="site__ce">
+								<div className="site__back">
+									<img
+										src="assets/img/react_back.svg"
+										alt="리엑트사이트 배경"
+										aria-hidden="true"
+									/>
+								</div>
+								<div className="site__fron">
+									<img
+										src="assets/img/react04.png"
+										alt="리엑트사이트 이미지"
+									/>
+								</div>
+							</div>
+						</div>
+						<div className="site__left">
+							<div className="site__left__title">react site</div>
+							<div className="site__left__desc">
+								<span className="main__icon"></span>
+								Shazam Core의 api를 활용한 리액트로 만든 음악 사이트입니다.
+								검색, 음악차트, 음악별 카테고리, 현재 자신이 위치한 국가를
+								바탕으로 해당 음악이 나오도록 구현하였습니다.
+								<br />
+								현재 음악 정보에 관한 상세페이지는 수정중에 있습니다.
+							</div>
+							<div className="site__btn">
+								<a
+									href="https://music-api-two-red.vercel.app/"
+									target="_blank"
+								>
+									사이트 보기
+								</a>
+								<a
+									href="https://github.com/jwor12427/music-api"
+									target="_blank"
+								>
+									코드 보기
+								</a>
+							</div>
+
+							<div className="s__conts-rail">
+								<div className="conts__inner">
+									<div className="conts__item">
+										<div className="conts__line">
+											react site react site react site
+										</div>
+									</div>
 								</div>
 							</div>
 						</div>
